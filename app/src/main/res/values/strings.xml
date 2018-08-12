@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Send Email</string>
+    <string name="to_mail_address">To Mail Address</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="web_url">www.github.com/gitproject09</string>
+</resources>
